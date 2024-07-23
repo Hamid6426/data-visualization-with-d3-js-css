@@ -1,0 +1,15 @@
+.cell { stroke: #e5e5e5; }
+.axis-label { font-size: 12px; }
+.legend rect { stroke: #e5e5e5; }
+#tooltip {
+    position: absolute;
+    text-align: center;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    font: 12px sans-serif;
+    background: lightsteelblue;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+}
